@@ -3,7 +3,7 @@ Piety group first assignment using Excel Basic functions to create a report stat
 
 ## Introduction
 
-After sevearl tutorial on functions, the goal was to transform raw data into actionable insight focusing on student performance.
+After several tutorial on functions, the goal was to transform raw data into actionable insight focusing on student performance.
 
 ## <img width="841" height="539" alt="image of report card" src="https://github.com/user-attachments/assets/ea6054fe-e4c1-4d7d-9177-75474a0f7147" />
 
